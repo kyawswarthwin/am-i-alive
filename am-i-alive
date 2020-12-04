@@ -1,3 +1,4 @@
 {
-  "com.netcore.app": true
+  "com.netcore.app": true,
+  "com.netcore.bpay": true
 }
